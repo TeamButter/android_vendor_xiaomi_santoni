@@ -1165,6 +1165,7 @@ PRODUCT_PACKAGES += \
     embms \
     fastdormancy \
     shutdownlistener \
+    CNEService \
     QtiTetherService \
     com.qualcomm.location \
     qcrilmsgtunnel \
