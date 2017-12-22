@@ -1,7 +1,7 @@
 # Copyright (C) 2017 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
+# you fmay not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
 # http://www.apache.org/licenses/LICENSE-2.0
@@ -16,7 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/bin/adsprpcd:system/bin/adsprpcd \
-    vendor/xiaomi/santoni/proprietary/bin/btnvtool:system/bin/btnvtool \
     vendor/xiaomi/santoni/proprietary/bin/cnd:system/bin/cnd \
     vendor/xiaomi/santoni/proprietary/bin/cnss-daemon:system/bin/cnss-daemon \
     vendor/xiaomi/santoni/proprietary/bin/cnss_diag:system/bin/cnss_diag \
