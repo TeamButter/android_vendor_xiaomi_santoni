@@ -469,10 +469,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib64/lib-imsvtutils.so:system/lib64/lib-imsvtutils.so \
     vendor/xiaomi/santoni/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/xiaomi/santoni/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
-    vendor/xiaomi/santoni/proprietary/lib/libgui.so:system/lib/libgui.so \
-    vendor/xiaomi/santoni/proprietary/lib64/libgui.so:system/lib64/libgui.so \
-    vendor/xiaomi/santoni/proprietary/lib/libui.so:system/lib/libui.so \
-    vendor/xiaomi/santoni/proprietary/lib64/libui.so:system/lib64/libui.so \
+    vendor/xiaomi/santoni/proprietary/lib/libsui.so:system/lib/libsui.so \
+    vendor/xiaomi/santoni/proprietary/lib64/libsui.so:system/lib64/libsui.so \
+    vendor/xiaomi/santoni/proprietary/lib/libsu.so:system/lib/libsu.so \
+    vendor/xiaomi/santoni/proprietary/lib64/libsu.so:system/lib64/libsu.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libFaceGrade.so:system/vendor/lib/libFaceGrade.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libFaceProc.so:system/vendor/lib/libFaceProc.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libRecoFace.so:system/vendor/lib/libRecoFace.so \
